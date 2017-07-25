@@ -1,0 +1,26 @@
+{
+  "name": "gulp-htmlmin2",
+  "version": "1.0.9",
+  "description": "A simple html minimize tool, just drop empties and comments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "dependencies": {
+	"through2": "*"
+  },
+  "keywords": [
+    "gulp",
+    "htmlmin2",
+    "htmlmin",
+    "html",
+    "minimize"
+  ],
+  "author": {
+    "name": "James.Huang",
+    "email": "hz932@qq.com",
+    "url": "http://www.hz300.com/gulp-htmlmin2/"
+  },
+  "license": "MIT",
+  "readme": "readme.md"
+}
